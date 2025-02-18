@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GFTLAB-6] Como usuário desejo visualizar banner carrossel na área logada</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://rodrigues25tatiane.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-2">Implementação de Funcionalidades de acesso rápido na área logada</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-2">GFTLAB-2</a>)</span>
+                <h3 class="formtitle"><img src="https://rodrigues25tatiane.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [GFTLAB-6]&nbsp;<a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-6">Como usuário desejo visualizar banner carrossel na área logada</a>
+            <span class="subText">
+               Criado: 12/fev/25                   &nbsp;Atualizado(a): 13/fev/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">IN TEST</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://rodrigues25tatiane.atlassian.net/secure/BrowseProject.jspa?id=10004">GFTLabs</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-2">Implementação de Funcionalidades de acesso rápido na área logada</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                id="word_reporter_712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                href="https://rodrigues25tatiane.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A7da727c1-70d4-4a1d-99f3-77fc92e7e366">
+                    Tatiane Rodrigues Alves
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                id="word_assignee_712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                href="https://rodrigues25tatiane.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A7da727c1-70d4-4a1d-99f3-77fc92e7e366">
+                    Tatiane Rodrigues Alves
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10041-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ de Tempo Gasto:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Σ da Estimativa Original:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+                    </td>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap>
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+<tr><td bgcolor="#f0f0f0" width="20%" valign="top"><b>Subtarefas:</b></td>
+    <td bgcolor="#ffffff" valign="top">
+        <table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            <tr bgcolor="#f0f0f0">
+                <td>
+                    <b>Chave</b><br/>
+                </td>
+                <td>
+                    <b>Resumo</b><br/>
+                </td>
+                <td>
+                    <b>Tipo</b><br/>
+                </td>
+                <td>
+                    <b>Status</b><br/>
+                </td>
+                <td>
+                    <b>Responsável</b><br/>
+                </td>
+            </tr>
+                            <tr>
+                    <td>
+                        <a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-18">GFTLAB-18</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-18">Levantamento e escrita de casos te teste</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Concluído
+                    </td>
+                    <td>
+                                                     Tatiane Rodrigues Alves  &nbsp;
+                                            </td>
+                </tr>
+                            <tr>
+                    <td>
+                        <a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-19">GFTLAB-19</a>
+                    </td>
+                    <td valign="top" width="25%">
+                        <a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-19">Execução de testes manuais</a>
+                    </td>
+                    <td>
+                        Subtarefa
+                    </td>
+                    <td>
+                        Concluído
+                    </td>
+                    <td>
+                                                     Tatiane Rodrigues Alves  &nbsp;
+                                            </td>
+                </tr>
+                    </table>
+    </td>
+</tr>
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10041-value" class="value" bgcolor="#ffffff" width="80%">      0|i0008f:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10041-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 2</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10041-value" class="value" bgcolor="#ffffff" width="80%">    8
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p><b>Como</b> usuário,<br/>
+<b>Eu desejo</b> visualizar o banner carrossel na área logada,<br/>
+<b>Para que</b> eu possa ver promoções, novidades ou conteúdos destacados enquanto navego pela plataforma.</p>
+
+<p> </p>
+
+<h3><a name="Crit%C3%A9riosdeAceite%3A"></a><b>Critérios de Aceite</b>:</h3>
+
+<ol>
+	<li><b>Visibilidade do Carrossel</b>:
+	<ul>
+		<li>O banner carrossel deve ser exibido na área logada da plataforma, logo após o login do usuário.</li>
+		<li>O carrossel deve ser claramente visível e ocupar uma área de destaque na página inicial, com boa legibilidade e imagens atraentes.</li>
+	</ul>
+	</li>
+	<li><b>Comportamento do Carrossel</b>:
+	<ul>
+		<li>O carrossel deve ter a capacidade de rotacionar automaticamente as imagens de acordo com um tempo determinado (exemplo: a cada 5 segundos).</li>
+		<li>O usuário deve poder navegar manualmente pelo carrossel, clicando nas setas ou indicadores de navegação (pontos ou setas).</li>
+		<li>As imagens no carrossel devem ser de alta qualidade e carregar rapidamente para uma boa experiência do usuário.</li>
+	</ul>
+	</li>
+	<li><b>Responsividade</b>:
+	<ul>
+		<li>O carrossel deve ser responsivo, ou seja, ajustar automaticamente seu tamanho e layout dependendo da tela do dispositivo (desktop, tablet ou mobile).</li>
+	</ul>
+	</li>
+	<li><b>Teste de Funcionalidade</b>:
+	<ul>
+		<li>O carrossel deve funcionar corretamente em diferentes navegadores e dispositivos móveis, sem apresentar falhas de carregamento ou navegação.</li>
+	</ul>
+	</li>
+</ol>
+
+
+<hr />
+
+<h3><a name="RegrasdeNeg%C3%B3cio%3A"></a><b>Regras de Negócio</b>:</h3>
+
+<ol>
+	<li><b>Exibição do Carrossel</b>:
+	<ul>
+		<li>O banner carrossel deve ser exibido apenas para os usuários logados.</li>
+		<li>O carrossel deve mostrar conteúdo relevante, como promoções ou novidades, de forma dinâmica.</li>
+	</ul>
+	</li>
+	<li><b>Transições e Navegação</b>:
+	<ul>
+		<li>As imagens do carrossel devem se alternar automaticamente, mas o usuário pode também navegar pelas imagens manualmente usando as setas de navegação.</li>
+		<li>Caso não haja conteúdo suficiente para preencher o carrossel, deve ser exibida uma mensagem de "Sem conteúdo disponível" ou "Em breve novidades", garantindo que o carrossel não fique vazio.</li>
+	</ul>
+	</li>
+	<li><b>Comportamento Individual do Carrossel</b>:
+	<ul>
+		<li>O comportamento do carrossel deve ser independente para cada usuário, ou seja, ao acessar a área logada, o usuário deve sempre visualizar o carrossel funcionando de maneira individual e personalizada para ele.</li>
+	</ul>
+	</li>
+</ol>
+
+
+<h3><a name="BDD%28BehaviorDrivenDevelopment%29%3A"></a><b>BDD (Behavior-Driven Development)</b>:</h3>
+
+<h4><a name="Cen%C3%A1rio1%3ACarrosselexibidona%C3%A1realogada"></a><b>Cenário 1: Carrossel exibido na área logada</b></h4>
+
+<p><b>Dado</b> que o usuário está logado na plataforma,<br/>
+<b>Quando</b> ele acessar a página inicial na área logada,<br/>
+<b>Então</b> o banner carrossel deve ser exibido logo após o login, em um local de destaque.</p>
+
+<h4><a name="Cen%C3%A1rio2%3AFuncionamentoautom%C3%A1ticodoCarrossel"></a><b>Cenário 2: Funcionamento automático do Carrossel</b></h4>
+
+<p><b>Dado</b> que o usuário está na página inicial com o carrossel visível,<br/>
+<b>Quando</b> o carrossel estiver em exibição,<br/>
+<b>Então</b> as imagens devem ser alternadas automaticamente a cada 5 segundos, sem necessidade de interação do usuário.</p>
+
+<h4><a name="Cen%C3%A1rio3%3ANavega%C3%A7%C3%A3omanualpeloCarrossel"></a><b>Cenário 3: Navegação manual pelo Carrossel</b></h4>
+
+<p><b>Dado</b> que o usuário está visualizando o carrossel,<br/>
+<b>Quando</b> o usuário clicar nas setas ou nos pontos de navegação,<br/>
+<b>Então</b> ele deve ser capaz de navegar manualmente pelas imagens do carrossel.</p>
+
+<h4><a name="Cen%C3%A1rio4%3ACarrosselresponsivo"></a><b>Cenário 4: Carrossel responsivo</b></h4>
+
+<p><b>Dado</b> que o usuário está acessando a plataforma em um dispositivo móvel,<br/>
+<b>Quando</b> ele visualizar a página inicial,<br/>
+<b>Então</b> o carrossel deve se ajustar ao tamanho da tela, mantendo sua funcionalidade e visibilidade adequada.</p>
+
+<h4><a name="Cen%C3%A1rio5%3AComportamentoindividualdoCarrossel"></a><b>Cenário 5: Comportamento individual do Carrossel</b></h4>
+
+<p><b>Dado</b> que o usuário está logado na plataforma,<br/>
+<b>Quando</b> ele acessar a área logada,<br/>
+<b>Então</b> o carrossel deve ser carregado de forma personalizada para o usuário e funcionar de forma independente sem afetar outras funcionalidades da página.</p>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Thu Feb 13 22:43:31 GMT 2025 por Tatiane Rodrigues Alves usando JIRA 1001.0.0-SNAPSHOT#100281-rev:f9a92c958576393f68d02ead86923e3d1fcf3671.
+
+</body>
+</html>

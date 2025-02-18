@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#GFTLAB-5] Como usuário desejo a implementação de Tagueamento no Login e nos ícones de acessibilidade</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://rodrigues25tatiane.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <b><a id="parent_issue_summary" href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-1">Implementação de Perfis de Acessibilidade, Tagueamento e Banner Rotativo na área de Login</a></b>
+                <span style="font-size: 9px">(<a id="parent_issue_key" href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-1">GFTLAB-1</a>)</span>
+                <h3 class="formtitle"><img src="https://rodrigues25tatiane.atlassian.net/images/icons/link_out_bot.gif" width="16" height="16" />
+                        [GFTLAB-5]&nbsp;<a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-5">Como usuário desejo a implementação de Tagueamento no Login e nos ícones de acessibilidade</a>
+            <span class="subText">
+               Criado: 12/fev/25                   &nbsp;Atualizado(a): 13/fev/25
+
+                                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Tarefas pendentes</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://rodrigues25tatiane.atlassian.net/secure/BrowseProject.jspa?id=10004">GFTLabs</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+            <td width="20%"><b>Pai:</b></td>
+        <td width="80%"><a href="https://rodrigues25tatiane.atlassian.net/browse/GFTLAB-1">Implementação de Perfis de Acessibilidade, Tagueamento e Banner Rotativo na área de Login</a></td>
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            História
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                id="word_reporter_712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                href="https://rodrigues25tatiane.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A7da727c1-70d4-4a1d-99f3-77fc92e7e366">
+                    Tatiane Rodrigues Alves
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                id="word_assignee_712020:7da727c1-70d4-4a1d-99f3-77fc92e7e366"
+                href="https://rodrigues25tatiane.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A7da727c1-70d4-4a1d-99f3-77fc92e7e366">
+                    Tatiane Rodrigues Alves
+                </a>
+
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+            				Não resolvido(s)
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10040-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+                <tr>
+            <td bgcolor="#f0f0f0" width=20% valign=top>
+                <b>Anexos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top">
+                                    <img src="https://rodrigues25tatiane.atlassian.net/images/icons/attach/image.gif" height="16" width="16" border="0" alt="Arquivo JPEG">
+                    Mapa mental taguemanto epico 1 historia tag.jpg &nbsp;&nbsp;&nbsp;
+                            </td>
+        </tr>
+        
+    
+
+
+
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10040-value" class="value" bgcolor="#ffffff" width="80%">      0|i00087:
+  </td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Sprint:</b></td>
+                <td id="customfield_10020-10040-value" class="value" bgcolor="#ffffff" width="80%">quadro Sprint 1</td>
+            </tr>
+                                <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Story point estimate:</b></td>
+                <td id="customfield_10016-10040-value" class="value" bgcolor="#ffffff" width="80%">    5
+</td>
+            </tr>
+            </table>
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Descrição</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td id="descriptionArea">
+            <p>Como um <b>usuário</b></p>
+
+<p><b>Eu quero</b> a implementação de <b>tagueamento</b> no <b>login</b> e nos <b>ícones de acessibilidade</b>,</p>
+
+<p><b>Para que</b> as interações com elementos como botões de contraste, zoom e o acesso ao login possam ser monitoradas e analisadas, a fim de melhorar a experiência do usuário.</p>
+
+
+
+<hr />
+
+<h3><a name="ObjetivodaHist%C3%B3ria%3A"></a><b>Objetivo da História</b>:</h3>
+
+<p>O objetivo dessa história é <b>implementar um sistema de tagueamento</b> para monitorar e analisar as interações dos usuários durante o processo de <b>login</b>, especialmente no que diz respeito aos <b>ícones de acessibilidade</b> (como contraste e zoom). Isso visa proporcionar uma melhor <b>visibilidade do comportamento do usuário</b>, permitindo ajustes para otimizar a experiência e garantir que as funcionalidades de acessibilidade atendam às necessidades dos usuários de maneira eficaz.</p>
+
+<hr />
+
+<h3><a name="EntregadeValor%3A"></a><b>Entrega de Valor</b>:</h3>
+
+<p>A entrega de valor dessa história é fornecer aos <b>analistas e desenvolvedores</b> as informações necessárias para <b>monitorar as interações dos usuários</b>, com ênfase nas funcionalidades de <b>acessibilidade</b> durante o login. Com esses dados, é possível entender melhor o comportamento dos usuários, identificar pontos de melhoria e <b>aprimorar a interface</b> para que ela seja mais inclusiva e funcional, promovendo uma <b>experiência mais fluída</b> e <b>intuitiva</b>.</p>
+
+<hr />
+
+<h3><a name="Crit%C3%A9riosdeAceita%C3%A7%C3%A3o%3A"></a><b>Critérios de Aceitação</b>:</h3>
+
+<ol>
+	<li><b>Sistema de Tagueamento para Login</b>:</li>
+</ol>
+
+
+<ul>
+	<li>O sistema de tagueamento deve ser <b>capaz de registrar interações dos usuários</b> durante o processo de login, incluindo cliques e ações realizadas nos <b>ícones de acessibilidade</b> (como botões de contraste e zoom).</li>
+	<li>O tagueamento deve ser configurado para registrar <b>informações específicas</b> sobre a interação do usuário com cada ícone (ex.: se o usuário ajustou o contraste, clicou no zoom, ou acessou o login).</li>
+	<li>O sistema deve permitir a coleta de dados sem afetar a <b>performance</b> ou a <b>usabilidade</b> da interface.</li>
+</ul>
+
+
+<ol>
+	<li><b>Sistema de Tagueamento para Ícones de Acessibilidade</b>:</li>
+</ol>
+
+
+<ul>
+	<li>O tagueamento deve ser <b>específico</b> para os <b>ícones de acessibilidade</b>, identificando interações como <b>ajustes de contraste</b> e <b>zoom</b>.</li>
+	<li>O sistema deve monitorar o <b>tempo de interação</b>, a <b>frequência de uso</b> e o tipo de ajuste feito pelos usuários.</li>
+	<li>Dados como <b>cliques e ajustes realizados</b> devem ser registrados com <b>precisão</b> para facilitar a análise de comportamentos.</li>
+</ul>
+
+
+<ol>
+	<li><b>Geração de Relatórios e Insights</b>:</li>
+</ol>
+
+
+<ul>
+	<li>O sistema de tagueamento deve permitir a <b>geração de relatórios</b> com as informações coletadas, que possam ser usados para <b>analisar o impacto das interações</b> na experiência do usuário.</li>
+	<li>Os relatórios devem fornecer <b>insights claros</b> sobre quais funcionalidades de acessibilidade são mais utilizadas e como elas impactam a navegação dos usuários.</li>
+</ul>
+
+
+<ol>
+	<li><b>Monitoramento e Análise</b>:</li>
+</ol>
+
+
+<ul>
+	<li>O sistema deve permitir que os <b>analistas de qualidade</b> monitorem em tempo real as interações dos usuários com os ícones de acessibilidade e o processo de login.</li>
+	<li>Deve ser possível <b>personalizar os parâmetros</b> do tagueamento para adaptar o monitoramento conforme as necessidades da análise.</li>
+</ul>
+
+
+<hr />
+
+<h3><a name=""></a></h3>
+            <br/>
+        </td>
+    </tr>
+    </table>
+
+Gerado em Thu Feb 13 18:33:29 GMT 2025 por Tatiane Rodrigues Alves usando JIRA 1001.0.0-SNAPSHOT#100281-rev:f9a92c958576393f68d02ead86923e3d1fcf3671.
+
+</body>
+</html>
